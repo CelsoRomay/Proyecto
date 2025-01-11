@@ -1,0 +1,62 @@
+.btn1 {
+	background-color: #FF0000;
+	border: 2px solid;
+	padding: 10px 10px;
+	text-align: center;
+	color: #ffffff;
+	font-size: auto;
+	margin: 2px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.btn1:hover {
+	background-color: #800040;
+}
+.btn2 {
+	background-color: #0000FF;
+	border: 2px solid;
+	padding: 10px 10px;
+	text-align: center;
+	color: #ffffff;
+	font-size: auto;
+	margin: 2px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.btn2:hover {
+	background-color: #800040;
+}
+nav a {
+				color: blue;
+				text-decoration: none;
+				padding: 5px;
+				font-weight: bold;
+				display: block;
+			}
+			
+nav a:hover {
+				color: #87CEEB;
+				transform: scale(1.2);
+			}
+.imagen{
+	background-image:url(profesiones.jpg);
+	background-position:center center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+	}
+.pie{
+	background-color: #024d2d;
+				color: white;
+				text-align: center;
+				padding: 5px;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	padding: 10px;
+	background-color: rgb(42, 14, 94);
+}
