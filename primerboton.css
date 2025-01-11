@@ -29,7 +29,7 @@
 	background-color: #800040;
 }
 nav a {
-				color: blue;
+				color: rgb(255, 0, 0);
 				text-decoration: none;
 				padding: 5px;
 				font-weight: bold;
@@ -45,7 +45,7 @@ nav a:hover {
 	background-position:center center;
 	background-repeat: no-repeat;
 	background-size:cover;
-	
+	text-align: center;
 	}
 .pie{
 	background-color: #024d2d;

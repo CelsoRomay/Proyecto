@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<text id="contenido">
+	<es>SABIAS QUE…….
+El proceso para elegir una carrera no es una acción sencilla, pero tampoco tiene por qué convertirse un camino largo y complicado. La elección de una carrera profesional es un proceso crucial e importante en la vida de cualquier individuo. Esta decisión no solo determina el rumbo de la vida laboral, sino que también influye en el bienestar y la satisfacción personal: y esto es vertebral para llevar y tener una buena vida.
+Incluso, sus repercusiones alcanzan lo social, pues una mala elección trae como consecuencias no solo la insatisfacción personal y laboral, a largo plazo, sino que a corto causa deserción y abandono. Es por ello que, ante la amplia gama de opciones educativas y profesionales disponibles, contar con una orientación vocacional adecuada se vuelve esencial. Eso sin contar con las dudas y presiones individuales. La orientación vocacional no es otra cosa que un proceso de aprendizaje que implica algo muy simple, pero complejo al mismo tiempo: autoconocernos e identificar nuestros intereses y objetivos de vida. Esto nos permitirá localizar aquellas carreras que se adaptan mejor a nuestra forma de ser, lo cual es esencial para que la labor académica (es decir, la asistencia, las tareas de investigación, las lecturas o la atención), no se vuelva una tortura: no hay cosa más desgastante que hacer algo que va en contra de nosotros mismos.
+    </es>
+    <en>DID YOU KNOW THAT…….
+The process of choosing a career is not a simple action, but it does not have to be a long and complicated path either. The choice of a professional career is a crucial and important process in the life of any individual. This decision not only determines the direction of one's working life, but also influences well-being and personal satisfaction: and this is essential to lead and have a good life.
+Its repercussions even reach the social level, since a bad choice brings consequences not only in personal and work dissatisfaction in the long term, but in the short term it causes desertion and abandonment. That is why, given the wide range of educational and professional options available, having adequate vocational guidance becomes essential. That is without taking into account individual doubts and pressures. Vocational guidance is nothing other than a learning process that involves something very simple, but complex at the same time: getting to know ourselves and identifying our interests and life goals. This will allow us to find those courses that best suit our way of being, which is essential so that academic work (i.e. attendance, research tasks, readings or paying attention) does not become a torture: there is nothing more exhausting than doing something that goes against ourselves.</en>
+	<fr>SAVIEZ-VOUS QUE…….
+Le processus de choix d’une carrière n’est pas une action simple, mais il ne doit pas non plus devenir un chemin long et compliqué. Le choix d’une carrière professionnelle est un processus crucial et important dans la vie de tout individu. Cette décision détermine non seulement l’orientation de votre vie professionnelle, mais influence également votre bien-être et votre satisfaction personnelle : et cela est essentiel pour mener et avoir une bonne vie.
+Ses répercussions atteignent même le niveau social, puisqu'un mauvais choix entraîne non seulement une insatisfaction personnelle et professionnelle, à long terme, mais à court terme, il provoque la désertion et l'abandon. C’est pourquoi, compte tenu du large éventail d’options éducatives et professionnelles disponibles, disposer d’une orientation professionnelle adéquate devient essentiel. Et cela sans tenir compte des doutes et des pressions individuelles. L'orientation professionnelle n'est rien d'autre qu'un processus d'apprentissage qui implique quelque chose de très simple, mais complexe à la fois : se connaître soi-même et identifier ses intérêts et ses objectifs de vie. Cela nous permettra de localiser les carrières qui s'adaptent le mieux à notre façon d'être, ce qui est essentiel pour que le travail académique (c'est-à-dire l'assiduité, les tâches de recherche, les lectures ou l'attention) ne devienne pas une torture : il n'y a rien de plus épuisant que de faire quelque chose qui va contre nous-mêmes.</fr>
+</text>
+<menu>
+    <item id="NUMERALES">
+        <es></es>
+        <en></en>
+		<fr></fr>
+    </item>
+	<item id="LITERALES">
+        <es></es>
+        <en></en>
+		<fr></fr>
+    </item>
+	<item id="ARTISTICAS">
+        <es></es>
+        <en></en>
+		<fr></fr>
+    </item>
+</menu>
+
+</translations>
